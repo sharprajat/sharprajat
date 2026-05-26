@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sharprajat/sharprajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Rajat
 
-Here are some ideas to get you started:
+**Software Developer** · Python · .NET · Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building things that scale — one commit at a time.*
+
+[![GitHub followers](https://img.shields.io/github/followers/sharprajat?label=Follow&style=social)](https://github.com/sharprajat)
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+> *More projects coming soon — currently building and organizing.*
+
+| Project | Description | Stack |
+|---|---|---|
+| 🐍 Python Projects | Automation, scripting & data tools | Python |
+| ☁️ Cloud Projects | Infrastructure, serverless & deployments | AWS / Azure / GCP |
+| ⚙️ .NET Projects | APIs, services & backend apps | .NET / C# |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharprajat&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharprajat&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Get in Touch
+
+- 💼 **LinkedIn:** [linkedin.com/in/sharprajat](https://linkedin.com/in/sharprajat) *(update with your actual URL)*
+- 🐙 **GitHub:** [@sharprajat](https://github.com/sharprajat)
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to explore my repos or reach out!*
+
+</div>
