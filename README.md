@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 
@@ -32,19 +32,19 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 > *More projects coming soon — currently building and organizing.*
 
 | Project | Description | Stack |
 |---|---|---|
-| 🐍 Python Projects | Automation, scripting & data tools | Python |
-| ☁️ Cloud Projects | Infrastructure, serverless & deployments | Azure |
-| ⚙️ .NET Projects | APIs, services & backend apps | .NET / C# |
+| Python Projects | Automation, scripting & data tools | Python |
+| Cloud Projects | Infrastructure, serverless & deployments | Azure |
+| .NET Projects | APIs, services & backend apps | .NET / C# |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -56,10 +56,10 @@
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-- 💼 **LinkedIn:** [linkedin.com/in/sharprajat](https://linkedin.com/in/sharprajat) *(update with your actual URL)*
-- 🐙 **GitHub:** [@sharprajat](https://github.com/sharprajat)
+- **LinkedIn:** [linkedin.com/in/sharprajat](https://linkedin.com/in/sharprajat) *(update with your actual URL)*
+- **GitHub:** [@sharprajat](https://github.com/sharprajat)
 
 ---
 
