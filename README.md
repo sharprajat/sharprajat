@@ -39,7 +39,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🐍 Python Projects | Automation, scripting & data tools | Python |
-| ☁️ Cloud Projects | Infrastructure, serverless & deployments | AWS / Azure / GCP |
+| ☁️ Cloud Projects | Infrastructure, serverless & deployments | Azure |
 | ⚙️ .NET Projects | APIs, services & backend apps | .NET / C# |
 
 ---
