@@ -48,9 +48,9 @@
 
 <div align="center">
 
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharprajat&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharprajat&theme=github-dark&hide_border=true)](https://github.com/sharprajat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharprajat&layout=compact&theme=dark&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=sharprajat&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
 
