@@ -6,8 +6,6 @@
 
 *Building things that scale — one commit at a time.*
 
-[![GitHub followers](https://img.shields.io/github/followers/sharprajat?label=Follow&style=social)](https://github.com/sharprajat)
-
 </div>
 
 ---
